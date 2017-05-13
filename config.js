@@ -7,5 +7,8 @@ module.exports = {
     "environment": "development",
     "debug": true,
     "dbDebug": true,
-    "defaultSettings": {}
+    "defaultSettings": {
+        "username": "admin",
+        "password": "demo"
+    }
 };
